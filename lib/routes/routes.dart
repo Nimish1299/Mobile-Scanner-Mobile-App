@@ -27,25 +27,4 @@ final getPages = [
     name: Routes.detailsscreen,
     page: () => const DetailsScreen(),
   ),
-  // GetPage(
-  //   name: Routes.signIn,
-  //   page: () => SignIn(),
-  // ),
-  // GetPage(
-  //   name: Routes.signUp,
-  //   page: () => SignUp(),
-  // ),
-  // GetPage(
-  //   name: Routes.forgetPassword,
-  //   page: () => ForgetPassword(),
-  // ),
-  // GetPage(
-  //   name: Routes.signUpVerification,
-  //   page: () => const SignUpVerification(),
-  // ),
-  // GetPage(
-  //   name: Routes.signInVerification,
-  //   page: () => const SignInVerification(),
-  // ),
-  
 ];
